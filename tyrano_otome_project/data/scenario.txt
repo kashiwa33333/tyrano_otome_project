@@ -1,0 +1,17 @@
+
+[bg storage=school_bg.jpg]
+
+[char name="高校生ひろし" storage="hiroshi_smile.png" x=0 y=0]
+「やあ、もえぴ。また会えたね。」
+
+[char name="高校生ひろし" storage="hiroshi_blush.png"]
+「いや、別にその…会いたかったわけじゃないけどさ…！」
+
+[char name="高校生ひろし" storage="hiroshi_serious.png"]
+「オレさ、学園祭が終わったら…話したいことがあるんだ。」
+
+[char name="高校生ひろし" storage="hiroshi_angry.png"]
+「…あんまり心配させんなよ。」
+
+[char name="高校生ひろし" storage="hiroshi_smile.png"]
+「んじゃ、また放課後な！」
